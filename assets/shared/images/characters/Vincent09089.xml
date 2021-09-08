@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vincent09089.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="627" height="701"/>
+	<SubTexture name="Idle0001" x="627" y="0" width="627" height="693"/>
+	<SubTexture name="Idle0002" x="1254" y="0" width="615" height="687"/>
+	<SubTexture name="Idle0003" x="1869" y="0" width="602" height="679"/>
+	<SubTexture name="Idle0004" x="2471" y="0" width="591" height="682"/>
+	<SubTexture name="Idle0005" x="3062" y="0" width="586" height="681"/>
+	<SubTexture name="Idle0006" x="3062" y="0" width="586" height="681"/>
+	<SubTexture name="Idle0007" x="3062" y="0" width="586" height="681"/>
+	<SubTexture name="Sing Down0000" x="0" y="701" width="637" height="713"/>
+	<SubTexture name="Sing Down0001" x="637" y="701" width="637" height="717"/>
+	<SubTexture name="Sing Left0000" x="1274" y="701" width="604" height="713"/>
+	<SubTexture name="Sing Left0001" x="1878" y="701" width="603" height="709"/>
+	<SubTexture name="Sing Left0002" x="1878" y="701" width="603" height="709"/>
+	<SubTexture name="Sing Right0000" x="2481" y="701" width="589" height="719"/>
+	<SubTexture name="Sing Right0001" x="3070" y="701" width="588" height="717"/>
+	<SubTexture name="Sing Up0000" x="0" y="1420" width="582" height="719"/>
+	<SubTexture name="Sing Up0001" x="582" y="1420" width="583" height="718"/>
+	<SubTexture name="Sing Up0002" x="582" y="1420" width="583" height="718"/>
+</TextureAtlas>
